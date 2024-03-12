@@ -2,7 +2,7 @@
 Creation of load balancer in AWS and maintain and mange internet gateway.
 
 
-#Process of the project :
+# Process of the project :
   create the vpc network.
   create the required no.of subnet through vpc. 
   create internet gateway or NAT gateway. 
