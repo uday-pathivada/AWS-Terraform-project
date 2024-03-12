@@ -29,6 +29,8 @@ create aws listener.
 
 create an output name to connect through the internet.
 
+# process:
+     ![Screenshot 2024-03-12 171123](https://github.com/uday-pathivada/AWS-Terraform-project/assets/142791225/1eee9fa1-bb01-4cc5-8794-fd3fd7ce03dc)
 
 # CREIDT TO:
      abhishek veramallu  -- ""https://github.com/iam-veeramalla""
