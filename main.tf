@@ -74,7 +74,7 @@ resource "aws_vpc_security_group_egress_rule" "allow_all_traffic_ipv4" {
 }
 
 resource "aws_s3_bucket" "example" {
-    bucket = "udays3bucket2024"
+    bucket = "uniq_name_for_s3"
   
 }
 
